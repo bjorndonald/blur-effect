@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "848128315748",
+    "firebase_url": "https://beip-main.firebaseio.com",
+    "project_id": "beip-main",
+    "storage_bucket": "beip-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848128315748:android:6fb2b5f4f758627e5e6a71",
+        "android_client_info": {
+          "package_name": "com.beip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848128315748-tb1egiob16esvbcm2v6gtqpdsg345b53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beip",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "848128315748-k4outfrbbsqc6vtcq7qokahp8e92c0to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZ9d3isTYiT_cAd6qzomd4c5gGqy54SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848128315748-k4outfrbbsqc6vtcq7qokahp8e92c0to.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848128315748-8ffj3v9n4dha79un338jbg0gtjakpgh2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.beip"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848128315748:android:09cda01a19ebe8c65e6a71",
+        "android_client_info": {
+          "package_name": "com.funds_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848128315748-k4outfrbbsqc6vtcq7qokahp8e92c0to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZ9d3isTYiT_cAd6qzomd4c5gGqy54SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848128315748-k4outfrbbsqc6vtcq7qokahp8e92c0to.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "848128315748-8ffj3v9n4dha79un338jbg0gtjakpgh2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.beip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
